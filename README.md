@@ -1,8 +1,9 @@
-## Pacman (WIP)
+###### WIP
+## Pacman
 Pacman developed with canvas and JavaScript using TypeScript.  
 [See project](https://thomas-hiron.github.io/pacman/)
 
----
+***
 
 ###### April 2015
 ## Wasabi
