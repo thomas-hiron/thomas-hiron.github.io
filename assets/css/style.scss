@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.project {
+  clear: both;
+}
+
+.project img {
+  float: left;
+  margin-right: 20px;
+}
