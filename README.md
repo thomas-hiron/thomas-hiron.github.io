@@ -3,12 +3,19 @@
 Pacman developed with canvas and JavaScript using TypeScript.  
 [See project](https://thomas-hiron.github.io/pacman/)
 
-***
+---
 
 ###### April 2015
 ## Wasabi
 Native android app for a school project.  
 [See project](https://thomas-hiron.github.io/wasabi/)
+
+---
+
+###### October 2014
+## Playlists
+Native android app for a school project.  
+[See project](https://thomas-hiron.github.io/playlists/)
 
 ---
 
