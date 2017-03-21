@@ -11,6 +11,14 @@ Tetris developed with canvas and prototype.
 
 ---
 
+## Snake - May 2013
+Snake developed with JavaScript.  
+[See project](https://thomas-hiron.github.io/snake/)
+
+
+
+---
+
 ## Breakout - April 2013
 Breakout developed with JavaScript.  
 [See project](https://thomas-hiron.github.io/casse-brique/)
