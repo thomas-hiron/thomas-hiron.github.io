@@ -7,3 +7,10 @@ Pacman developed with canvas and JavaScript using TypeScript.
 ## Tetris - August 2014
 Tetris developed with canvas and prototype.  
 [See project](https://thomas-hiron.github.io/tetris/)
+
+
+---
+
+## Breakout - April 2013
+Breakout developed with JavaScript.  
+[See project](https://thomas-hiron.github.io/casse-brique/)
