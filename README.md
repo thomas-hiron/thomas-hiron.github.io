@@ -4,6 +4,12 @@ Pacman developed with canvas and JavaScript using TypeScript.
 
 ---
 
+## Wasabi - April 2015
+Native android app for a school project.  
+[See project](https://thomas-hiron.github.io/wasabi/)
+
+---
+
 ## Tetris - August 2014
 Tetris developed with canvas and prototype.  
 [See project](https://thomas-hiron.github.io/tetris/)
