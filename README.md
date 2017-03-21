@@ -8,7 +8,7 @@ Pacman developed with canvas and JavaScript using TypeScript.
 ###### April 2015
 ## Wasabi
 | [<img src="https://thomas-hiron.github.io/img/wasabi.jpg" alt="Wasabi">](https://thomas-hiron.github.io/wasabi/) | Native android app for a school project. |
-| --- | --- |
+|---|---|
 
 ---
 
