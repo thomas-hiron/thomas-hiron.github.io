@@ -1,4 +1,4 @@
-###### WIP
+###### March 2017
 ## Pacman
 Pacman developed with canvas and JavaScript using TypeScript.  
 [See project](https://thomas-hiron.github.io/pacman/)
